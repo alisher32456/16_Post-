@@ -6,7 +6,7 @@ from pytz import timezone
 
 # Bot and channel configuration
 BOT_TOKEN = "7627783522:AAEqAlJ6O42wFv0SS7HzsAR8xFadu75FKn4"
-CHANNEL_ID = "@Tech_Pulse_Proxy_MTProto"
+CHANNEL_ID = "@bot1_test_1234"
 ADMIN_ID = 1878312179
 
 bot = Bot(token=BOT_TOKEN)
